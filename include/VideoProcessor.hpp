@@ -68,5 +68,7 @@ class VideoProcessor {
         virtual void applyFilter(const cv::Mat& frame, cv::Mat& output);
 
     private:
+        const std::string windowOriginal = "Original Frame";
+        const std::string windowProcessed = "Processed Frame";
         cv::VideoCapture cap;
 };
