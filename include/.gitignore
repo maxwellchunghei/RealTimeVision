@@ -1,0 +1,39 @@
+# 編譯產生的中間檔
+*.o
+*.obj
+*.lo
+*.slo
+
+# 編譯產生的執行檔
+*.exe
+*.out
+*.app
+
+# 編譯產生的動態/靜態函式庫
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+
+# 預編譯標頭
+*.gch
+*.pch
+
+# 編譯產生的其他檔案
+*.ilk
+*.map
+*.exp
+
+# 編譯目錄
+/build/
+
+# IDE 設定檔案
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+.vscode/
+.idea/
