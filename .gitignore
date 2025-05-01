@@ -1,34 +1,34 @@
-# 編譯產生的中間檔
+# Compiled object files
 *.o
 *.obj
 *.lo
 *.slo
 
-# 編譯產生的執行檔
+# Compiled executable files
 *.exe
 *.out
 *.app
 
-# 編譯產生的動態/靜態函式庫
+# Compiled dynamic/static libraries
 *.dll
 *.so
 *.dylib
 *.lib
 *.a
 
-# 預編譯標頭
+# Precompiled headers
 *.gch
 *.pch
 
-# 編譯產生的其他檔案
+# Other compiled files
 *.ilk
 *.map
 *.exp
 
-# 編譯目錄
+# Build directories
 /build/
 
-# IDE 設定檔案
+# IDE configuration files
 *.suo
 *.user
 *.userosscache
